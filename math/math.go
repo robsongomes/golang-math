@@ -23,3 +23,8 @@ func Div(a, b int) int {
 	}
 	return a / b
 }
+
+//Mod calculate the mod between a and b.
+func Mod(a, b int) int {
+	return a % b
+}
